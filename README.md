@@ -1,4 +1,4 @@
-# PipeGaming -- Game Project
+# PipeGaming - Game Project
 
 ## Introduction
 
@@ -28,15 +28,3 @@ The game features two modes: timed mode and endless mode. In timed mode, you mus
 - Fonts: The game uses the "Press Start 2P" font, which is available under the Open Font License.
 - Icons: The game uses icons from the "Game Icons" pack, which is available under the Creative Commons Attribution 3.0 Unported license.
 
-## License
-
-This project is licensed under the MIT License. You can find the full text of the license in the LICENSE file in the repository.
-
-## Known Issues
-
-- There is a minor issue with the sound effects in the game. Sometimes, the sound effects may not play correctly on certain devices.
-- The game may run slowly on older devices. To improve performance, you can try lowering the graphics quality in the game settings.
-
-## Future Development
-
-In the future, I plan to add more levels and game modes to the game. I also plan to improve the graphics and sound effects and fix any known issues. If you have any suggestions or feedback, feel free to contact me.
