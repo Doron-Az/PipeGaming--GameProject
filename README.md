@@ -1,5 +1,4 @@
-
-# PipeGaming - Game Project
+# PipeGaming -- Game Project
 
 ## Introduction
 
@@ -14,7 +13,7 @@ PipeGaming is a simple but challenging game project that tests your problem-solv
 
 ## Getting Started
 
-To get started with PipeGaming, you need to have Unity installed on your computer. You can download Unity from the official website: https://unity.com/. Once you have installed Unity, you can download or clone the repository to your local machine and open the project in Unity.
+To get started with PipeGaming, you will need to download or clone the repository to your local machine. 
 
 ## How to Play
 
@@ -25,8 +24,9 @@ The game features two modes: timed mode and endless mode. In timed mode, you mus
 ## Credits
 
 - Developer: Doron Azulay
-- Graphics and Sound Effects: The graphics and sound effects used in the game are from various sources, including Unity Asset Store and Freesound.org.
-- Unity Assets: The game uses several assets from the Unity Asset Store, including the Standard Assets, TextMesh Pro, and LeanTween.
+- Graphics and Sound Effects: The graphics and sound effects used in the game are from various sources, including Freesound.org.
+- Fonts: The game uses the "Press Start 2P" font, which is available under the Open Font License.
+- Icons: The game uses icons from the "Game Icons" pack, which is available under the Creative Commons Attribution 3.0 Unported license.
 
 ## License
 
