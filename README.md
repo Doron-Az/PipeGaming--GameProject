@@ -1,5 +1,5 @@
 
-# PipeGaming -- Game Project
+# PipeGaming - Game Project
 
 ## Introduction
 
@@ -24,7 +24,7 @@ The game features two modes: timed mode and endless mode. In timed mode, you mus
 
 ## Credits
 
-- Developer: Doron Azouri
+- Developer: Doron Azulay
 - Graphics and Sound Effects: The graphics and sound effects used in the game are from various sources, including Unity Asset Store and Freesound.org.
 - Unity Assets: The game uses several assets from the Unity Asset Store, including the Standard Assets, TextMesh Pro, and LeanTween.
 
