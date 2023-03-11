@@ -1,5 +1,9 @@
 # PipeGaming - Game Project
 
+## Authors: 
+
+Doron Azulay (doronazulay9@gmail.com)
+
 ## Introduction
 
 PipeGaming is a simple but challenging game project that tests your problem-solving skills. In this game, you need to connect pipes of various shapes and sizes to create a path for the liquid to flow from the source to the destination within a limited time. As you progress through the levels, the puzzles become increasingly difficult, requiring quick thinking and strategic planning.
