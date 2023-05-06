@@ -4,6 +4,7 @@ sf::Sprite GameObject::getSprite()
 {
 	return m_sprite;
 }
+//
 //-----------------------------------------------------------------------------
 void GameObject::setLocation(float height, float width)
 {
